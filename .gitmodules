@@ -1,3 +1,6 @@
+[submodule "loch"]
+	path = loch
+	url = https://github.com/thrbowl/loch.git
 [submodule "pelican-plugins"]
 	path = pelican-plugins
 	url = https://github.com/getpelican/pelican-plugins.git
