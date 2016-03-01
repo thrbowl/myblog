@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-THEME = '/home/b43258/Workspace/loch'
+THEME = 'loch'
 AUTHOR = 'yunlong'
 AUTHORDESC = """
-本人程序猿一枚，北漂于北京，08年毕业自河北承德避暑山庄，关注Linux，Python，测试，系统架构及各种开源技术。
+本人程序猿一枚，北漂于北京，08年毕业自河北承德石油高等专科学校，关注Linux，Python，测试，系统架构及各种开源技术。
 """
 SITENAME = u'花开见我'
 SITEWORDS = u"不忘初心, 方见本心"
