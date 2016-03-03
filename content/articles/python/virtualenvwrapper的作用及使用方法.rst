@@ -41,6 +41,7 @@ mkvirtualenv
 
     ``-r`` : 指定一个包含所有需要安装包的列表文件, 传递给 ``pip install -r``。
 
+.. PELICAN_END_SUMMARY
 
 mktmpenv
 ^^^^^^^^^
