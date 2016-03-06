@@ -2,8 +2,8 @@
 ###############################
 
 :date: 2016-03-01 07:26
-:tags: Graphviz, 流程图
-:category: 工具
+:tags: Graphviz, 流程图, Linux工具
+:category: linux
 :slug: draw-flow-with-graphviz
 :authors: yunlong
 

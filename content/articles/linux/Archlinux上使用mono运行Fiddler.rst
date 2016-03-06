@@ -2,8 +2,8 @@ Archlinux上使用mono运行Fiddler
 ###############################
 
 :date: 2016-03-01 07:26
-:tags: Fiddler, Http抓包
-:category: 工具
+:tags: Fiddler, Http抓包, Linux工具
+:category: linux
 :slug: archlinux-run-fiddler
 :authors: yunlong
 
